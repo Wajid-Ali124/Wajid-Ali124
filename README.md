@@ -21,21 +21,62 @@ I'm Wajid Ali, a full-stack developer (React, Next.js, Node.js) and the founder 
 
 Client code is private, so each project below links to its full case study on [devsiter.com/work](https://www.devsiter.com/work), with screenshots, architecture and results.
 
-<div align="center">
-
-<a href="https://www.devsiter.com/work/tiptopca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tiptopca-dark.svg"><img src="assets/card-tiptopca-light.svg" alt="TipTop CA: Learning platform serving 1,000+ active students. PayFast billing, automatic Azure accounts after payment, and an AI tutor grounded in course notes. Read the case study." width="720"></picture></a>
-
-<a href="https://www.devsiter.com/work/imagifix-pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-imagifix-pro-dark.svg"><img src="assets/card-imagifix-pro-light.svg" alt="Imagifix Pro: Image editing SaaS where every AI call costs credits. Stripe webhooks top up balances, Clerk handles sign-in, Cloudinary runs generative object removal. Read the case study." width="720"></picture></a>
-
-<a href="https://www.devsiter.com/work/topfived"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-topfived-dark.svg"><img src="assets/card-topfived-light.svg" alt="TopFived: Community site for making and debating Top-5 lists. Voting, comments, followers, Google sign-in and an admin dashboard for moderation. Read the case study." width="720"></picture></a>
-
-<a href="https://www.devsiter.com/work/cs-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-cs-automation-dark.svg"><img src="assets/card-cs-automation-light.svg" alt="CS Automation: Reads Gmail over IMAP, applies filter rules, and triggers n8n workflows such as automatic replies, so teams stop sorting email by hand. Read the case study." width="720"></picture></a>
-
-<a href="https://www.devsiter.com/work/loan-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-loan-automation-dark.svg"><img src="assets/card-loan-automation-light.svg" alt="Loan Automation: Turns spreadsheets of loan records into legal PDF agreements and sends them by WhatsApp and email. Runs on a hardened Linux VPS. Read the case study." width="720"></picture></a>
-
-<a href="https://www.devsiter.com/work/syteroam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-syteroam-dark.svg"><img src="assets/card-syteroam-light.svg" alt="SyteRoam: Public website and blog for QuadKor's mobile app. Built solo in Next.js with canonical SEO and a 90+ Google PageSpeed score. Read the case study." width="720"></picture></a>
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/tiptopca"><img src="https://www.devsiter.com/assets/projects/tiptopca/hero-section.png" alt="TipTop CA project screenshot" width="100%"></a>
+<h3>TipTop CA</h3>
+<p>Learning platform for 1,000+ students with PayFast billing, automatic Azure accounts and an AI tutor grounded in course notes.</p>
+<p><code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Azure</code> <code>Gemini</code></p>
+<p><a href="https://www.devsiter.com/work/tiptopca">Case study</a> &nbsp;|&nbsp; <a href="https://tiptopca.co.za/">Live site</a></p>
+<br>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/imagifix-pro"><img src="https://www.devsiter.com/assets/projects/Imagifix-pro/hero-section.png" alt="Imagifix Pro project screenshot" width="100%"></a>
+<h3>Imagifix Pro</h3>
+<p>Credit-metered AI image SaaS with Stripe webhooks, Clerk authentication and Cloudinary generative editing.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Stripe</code> <code>Clerk</code> <code>Cloudinary</code></p>
+<p><a href="https://www.devsiter.com/work/imagifix-pro">Case study</a></p>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/topfived"><img src="https://www.devsiter.com/assets/projects/topfived/hero-section.png" alt="TopFived project screenshot" width="100%"></a>
+<h3>TopFived</h3>
+<p>Social platform for Top-5 lists with voting, followers, Google sign-in and an admin moderation dashboard.</p>
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>OAuth</code></p>
+<p><a href="https://www.devsiter.com/work/topfived">Case study</a></p>
+<br>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/cs-automation"><img src="https://www.devsiter.com/assets/projects/cs-automation/hero-section.png" alt="CS Automation project screenshot" width="100%"></a>
+<h3>CS Automation</h3>
+<p>Gmail IMAP ingestion with a rule engine and n8n workflows that replace manual email triage.</p>
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>n8n</code></p>
+<p><a href="https://www.devsiter.com/work/cs-automation">Case study</a></p>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/loan-automation"><img src="https://www.devsiter.com/assets/projects/loan-automation/hero-section.png" alt="Loan Automation project screenshot" width="100%"></a>
+<h3>Loan Automation</h3>
+<p>Excel to legal PDF to WhatsApp and email pipeline for a legal practice, running on a hardened Linux VPS.</p>
+<p><code>Node.js</code> <code>Express</code> <code>Interakt</code> <code>Nginx</code> <code>PM2</code></p>
+<p><a href="https://www.devsiter.com/work/loan-automation">Case study</a></p>
+<br>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.devsiter.com/work/syteroam"><img src="https://www.devsiter.com/assets/projects/syteroam/hero-section.png" alt="SyteRoam project screenshot" width="100%"></a>
+<h3>SyteRoam</h3>
+<p>Marketing site and blog for QuadKor's mobile app, built solo with technical SEO and a 90+ PageSpeed score.</p>
+<p><code>Next.js</code> <code>React</code> <code>Technical SEO</code></p>
+<p><a href="https://www.devsiter.com/work/syteroam">Case study</a> &nbsp;|&nbsp; <a href="https://syteroam.com/">Live site</a></p>
+<br>
+</td>
+</tr>
+</table>
 
 Also built: [Premium Solutions](https://www.devsiter.com/work/premium-solutions), a Next.js storefront with an admin dashboard ([live](https://www.premiumsolutions.store/)), and [AssuredPosture](https://www.devsiter.com/work/assuredposture), a framework-free HTML and CSS site for a cybersecurity advisory firm.
 

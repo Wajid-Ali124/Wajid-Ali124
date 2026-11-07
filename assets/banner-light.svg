@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" role="img" aria-labelledby="t d">
+<title id="t">Wajid Ali, full-stack developer and founder of Devsiter</title>
+<desc id="d">Blueprint-style banner with a diagram of a typical system: Next.js, Node API, database, Stripe, webhooks and integrations.</desc>
+<defs>
+<pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#0EA5E9" stroke-opacity="0.10" stroke-width="1"/></pattern>
+<pattern id="major" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#0EA5E9" stroke-opacity="0.22" stroke-width="1"/></pattern>
+<clipPath id="frame"><rect width="1280" height="380" rx="14"/></clipPath>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#0EA5E9"/></marker>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="380" fill="#E2EDF9"/>
+<rect width="1280" height="380" fill="url(#minor)"/>
+<rect width="1280" height="380" fill="url(#major)"/>
+</g>
+<rect x="0.75" y="0.75" width="1278.5" height="378.5" rx="14" fill="none" stroke="#0EA5E9" stroke-opacity="0.45" stroke-width="1.5"/>
+<path d="M22 30H38M30 22V38" stroke="#2A4A6B" stroke-opacity="0.55" stroke-width="1.5"/><path d="M1242 30H1258M1250 22V38" stroke="#2A4A6B" stroke-opacity="0.55" stroke-width="1.5"/><path d="M22 350H38M30 342V358" stroke="#2A4A6B" stroke-opacity="0.55" stroke-width="1.5"/><path d="M1242 350H1258M1250 342V358" stroke="#2A4A6B" stroke-opacity="0.55" stroke-width="1.5"/>
+<text x="72" y="172" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-2" fill="#08111F">Wajid Ali</text>
+<text x="74" y="226" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#2A4A6B">Full-stack developer building SaaS products,</text>
+<text x="74" y="258" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#2A4A6B">payment systems and automations.</text>
+<text x="74" y="318" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#0369A1">Founder of Devsiter</text>
+<line x1="800" y1="114" x2="858" y2="114" stroke="#0EA5E9" stroke-opacity="0.8" stroke-width="2" marker-end="url(#arrow)"/><line x1="1010" y1="114" x2="1068" y2="114" stroke="#0EA5E9" stroke-opacity="0.8" stroke-width="2" marker-end="url(#arrow)"/><line x1="800" y1="254" x2="858" y2="254" stroke="#0EA5E9" stroke-opacity="0.8" stroke-width="2" marker-end="url(#arrow)"/><line x1="1010" y1="254" x2="1068" y2="254" stroke="#0EA5E9" stroke-opacity="0.8" stroke-width="2" marker-end="url(#arrow)"/><line x1="935" y1="230" x2="935" y2="142" stroke="#0EA5E9" stroke-opacity="0.8" stroke-width="2" marker-end="url(#arrow)"/>
+<circle r="5.5" fill="#0EA5E9"><animateMotion dur="5s" repeatCount="indefinite" path="M 725,254 L 935,254 L 935,114 L 1145,114"/></circle>
+<rect x="650" y="90" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="725" y="120" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Next.js</text><rect x="860" y="90" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="935" y="120" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Node API</text><rect x="1070" y="90" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="1145" y="120" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Database</text><rect x="650" y="230" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="725" y="260" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Stripe</text><rect x="860" y="230" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="935" y="260" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Webhooks</text><rect x="1070" y="230" width="150" height="48" rx="6" fill="#F0F6FF" stroke="#0EA5E9" stroke-opacity="0.55" stroke-width="1.5"/><text x="1145" y="260" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#08111F">Integrations</text>
+<text x="650" y="334" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#4A6FA5">A typical system I build for clients</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 210" role="img" aria-labelledby="t">
+<title id="t">SyteRoam: Public website and blog for QuadKor's mobile app. Built solo in Next.js with canonical SEO and a 90+ Google PageSpeed score.</title>
+<defs><clipPath id="c"><rect x="1" y="1" width="558" height="208" rx="8"/></clipPath></defs>
+<rect x="1" y="1" width="558" height="208" rx="8" fill="#0C1B30"/>
+<rect x="1" y="1" width="7" height="208" fill="#38BDF8" clip-path="url(#c)"/>
+<rect x="1" y="1" width="558" height="208" rx="8" fill="none" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1.5"/>
+<text x="34" y="58" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.5" fill="#F0F6FF">SyteRoam</text>
+<text x="526" y="56" text-anchor="end" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#86A9D4">Marketing site and SEO</text>
+<text x="34" y="96" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#A9C4E2">Public website and blog for QuadKor's mobile app.</text><text x="34" y="120" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#A9C4E2">Built solo in Next.js with canonical SEO and a</text><text x="34" y="144" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#A9C4E2">90+ Google PageSpeed score.</text>
+<line x1="34" y1="162" x2="526" y2="162" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1"/>
+<text x="34" y="190" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#86A9D4">Next.js<tspan dx="16">React</tspan><tspan dx="16">Technical SEO</tspan></text>
+<text x="526" y="190" text-anchor="end" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" text-decoration="underline" fill="#7DD3FC">Read case study</text>
+</svg>

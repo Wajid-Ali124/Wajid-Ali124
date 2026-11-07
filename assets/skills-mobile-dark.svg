@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 480" role="img" aria-labelledby="t">
+<title id="t">Tech stack: React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Supabase, Stripe, PayFast, Clerk, Microsoft Graph, n8n, Gemini RAG, IMAP, WhatsApp API, Nginx, PM2, Linux VPS, Cloudflare, CI/CD</title>
+
+<!-- Frontend -->
+<text x="16" y="24" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Frontend</text>
+<rect x="16" y="34" width="66" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="49.0" y="54" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">React</text>
+<rect x="88" y="34" width="78" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="127.0" y="54" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Next.js</text>
+<rect x="172" y="34" width="102" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="223.0" y="54" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">TypeScript</text>
+<rect x="280" y="34" width="118" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="339.0" y="54" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Tailwind CSS</text>
+
+<!-- Backend -->
+<text x="16" y="96" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Backend</text>
+<rect x="16" y="106" width="78" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="55.0" y="126" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Node.js</text>
+<rect x="100" y="106" width="80" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="140.0" y="126" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Express</text>
+<rect x="186" y="106" width="94" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="233.0" y="126" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">REST APIs</text>
+<rect x="286" y="106" width="88" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="330.0" y="126" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Webhooks</text>
+
+<!-- Data -->
+<text x="16" y="168" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Data</text>
+<rect x="16" y="178" width="86" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="59.0" y="198" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">MongoDB</text>
+<rect x="108" y="178" width="102" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="159.0" y="198" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">PostgreSQL</text>
+<rect x="216" y="178" width="88" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="260.0" y="198" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Supabase</text>
+
+<!-- Payments and identity -->
+<text x="16" y="240" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Payments and identity</text>
+<rect x="16" y="250" width="70" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="51.0" y="270" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Stripe</text>
+<rect x="92" y="250" width="78" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="131.0" y="270" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">PayFast</text>
+<rect x="176" y="250" width="64" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="208.0" y="270" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Clerk</text>
+<rect x="246" y="250" width="138" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="315.0" y="270" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Microsoft Graph</text>
+
+<!-- Automation and AI -->
+<text x="16" y="312" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Automation and AI</text>
+<rect x="16" y="322" width="54" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="43.0" y="342" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">n8n</text>
+<rect x="76" y="322" width="102" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="127.0" y="342" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Gemini RAG</text>
+<rect x="184" y="322" width="60" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="214.0" y="342" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">IMAP</text>
+<rect x="250" y="322" width="122" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="311.0" y="342" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">WhatsApp API</text>
+
+<!-- Deployment -->
+<text x="16" y="384" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#A9C4E2">Deployment</text>
+<rect x="16" y="394" width="68" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="50.0" y="414" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Nginx</text>
+<rect x="90" y="394" width="54" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="117.0" y="414" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">PM2</text>
+<rect x="150" y="394" width="94" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="197.0" y="414" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Linux VPS</text>
+<rect x="250" y="394" width="98" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="299.0" y="414" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">Cloudflare</text>
+<rect x="16" y="432" width="68" height="30" rx="6" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1.3"/><text x="50.0" y="452" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#F0F6FF">CI/CD</text>
+</svg>

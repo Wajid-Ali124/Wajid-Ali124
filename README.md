@@ -1,11 +1,16 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Wajid Ali, full-stack developer and founder of Devsiter" width="100%"></picture>
+<picture>
+  <source media="(max-width: 650px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 650px)" srcset="assets/banner-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Wajid Ali, full-stack developer and founder of Devsiter" width="100%">
+</picture>
 
-<a href="https://www.devsiter.com/work"><img src="assets/btn-portfolio.svg" alt="Portfolio on Devsiter" height="44"></a>
-<a href="https://www.linkedin.com/in/wajid-ali-mern-developer"><img src="assets/btn-linkedin.svg" alt="Wajid Ali on LinkedIn" height="44"></a>
-<a href="https://www.upwork.com/freelancers/~0125146d71fac6995d"><img src="assets/btn-upwork.svg" alt="Wajid Ali on Upwork" height="44"></a>
-<a href="mailto:wajid@devsiter.com"><img src="assets/btn-email.svg" alt="Email wajid@devsiter.com" height="44"></a>
+<a href="https://www.devsiter.com/work"><picture><source media="(max-width: 650px)" srcset="assets/btn-portfolio-mobile.svg"><img src="assets/btn-portfolio.svg" alt="Portfolio on Devsiter"></picture></a>
+<a href="https://www.linkedin.com/in/wajid-ali-mern-developer"><picture><source media="(max-width: 650px)" srcset="assets/btn-linkedin-mobile.svg"><img src="assets/btn-linkedin.svg" alt="Wajid Ali on LinkedIn"></picture></a>
+<a href="https://www.upwork.com/freelancers/~0125146d71fac6995d"><picture><source media="(max-width: 650px)" srcset="assets/btn-upwork-mobile.svg"><img src="assets/btn-upwork.svg" alt="Wajid Ali on Upwork"></picture></a>
+<a href="mailto:wajid@devsiter.com"><picture><source media="(max-width: 650px)" srcset="assets/btn-email-mobile.svg"><img src="assets/btn-email.svg" alt="Email wajid@devsiter.com"></picture></a>
 
 </div>
 
@@ -13,7 +18,12 @@ I'm Wajid Ali, a full-stack developer (React, Next.js, Node.js) and the founder 
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="4+ years building production web apps, 8 documented client projects, 1,000+ students on a platform I built, Upwork Top Rated with 100% Job Success" width="100%"></picture>
+<picture>
+  <source media="(max-width: 650px) and (prefers-color-scheme: dark)" srcset="assets/stats-mobile-dark.svg">
+  <source media="(max-width: 650px)" srcset="assets/stats-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="4+ years building production web apps, 8 documented client projects, 1,000+ students on a platform I built, Upwork Top Rated with 100% Job Success" width="100%">
+</picture>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -84,7 +94,12 @@ Also built: [Premium Solutions](https://www.devsiter.com/work/premium-solutions)
 
 ## Stack
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg"><img src="assets/skills-light.svg" alt="Tech stack: React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Supabase, Stripe, PayFast, Clerk, Microsoft Graph, n8n, Gemini RAG, Nginx, PM2, Linux VPS, Cloudflare, CI/CD" width="100%"></picture>
+<picture>
+  <source media="(max-width: 650px) and (prefers-color-scheme: dark)" srcset="assets/skills-mobile-dark.svg">
+  <source media="(max-width: 650px)" srcset="assets/skills-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills-light.svg" alt="Tech stack: React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL, Supabase, Stripe, PayFast, Clerk, Microsoft Graph, n8n, Gemini RAG, Nginx, PM2, Linux VPS, Cloudflare, CI/CD" width="100%">
+</picture>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -92,7 +107,7 @@ Also built: [Premium Solutions](https://www.devsiter.com/work/premium-solutions)
 
 I'm open to full-time full-stack roles, and I take fixed-price projects through Devsiter. I reply within 24 hours.
 
-<a href="https://www.devsiter.com/contact"><img src="assets/btn-start-project.svg" alt="Start a project with Devsiter" height="44"></a>
+<a href="https://www.devsiter.com/contact"><picture><source media="(max-width: 650px)" srcset="assets/btn-start-project-mobile.svg"><img src="assets/btn-start-project.svg" alt="Start a project with Devsiter"></picture></a>
 
 Email [wajid@devsiter.com](mailto:wajid@devsiter.com) · [LinkedIn](https://www.linkedin.com/in/wajid-ali-mern-developer) · [Upwork](https://www.upwork.com/freelancers/~0125146d71fac6995d) · [Devsiter on LinkedIn](https://www.linkedin.com/company/devsiter/)
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 190" role="img" aria-labelledby="t">
+<title id="t">4+ years building production web apps, 8 documented client projects, 1,000+ students on a platform built, Upwork Top Rated with 100% Job Success</title>
+<rect x="0.75" y="0.75" width="418.5" height="188.5" rx="10" fill="#0C1B30" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1.5"/>
+<line x1="16" y1="95" x2="404" y2="95" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5"/>
+<line x1="210" y1="16" x2="210" y2="82" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5"/>
+<line x1="210" y1="108" x2="210" y2="174" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="20" y="50" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#F0F6FF">4+ years</text>
+<text x="20" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#A9C4E2">building production apps</text>
+<text x="230" y="50" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#F0F6FF">8</text>
+<text x="230" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#A9C4E2">documented client projects</text>
+<text x="20" y="142" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#F0F6FF">1,000+</text>
+<text x="20" y="166" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#A9C4E2">students on platform built</text>
+<polygon points="239,124 242.5,133.5 252.5,134 244.5,140.5 247.5,150 239,144.5 230.5,150 233.5,140.5 225.5,134 235.5,133.5" fill="#F59E0B"/>
+<text x="260" y="142" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#F0F6FF">Top Rated</text>
+<text x="230" y="166" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#A9C4E2">100% Job Success on Upwork</text>
+</svg>
